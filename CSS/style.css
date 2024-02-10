@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 1400px;
+}
+
+.firstScreen{
+ background: url("/images/bg.png");
+ width: 100%;
+ height: 650px;
+}
+
